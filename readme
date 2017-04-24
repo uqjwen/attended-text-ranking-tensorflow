@@ -1,0 +1,2 @@
+attention-based text ranking. a tensorflow implementation of http://disi.unitn.it/%7Eseveryn/papers/sigir-2015-long.pdf
+also see here: https://github.com/zhangzibin/PairCNN-Ranking
