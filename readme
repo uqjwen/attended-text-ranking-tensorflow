@@ -1,2 +1,52 @@
 attention-based text ranking. a tensorflow implementation of http://disi.unitn.it/%7Eseveryn/papers/sigir-2015-long.pdf
 also see here: https://github.com/zhangzibin/PairCNN-Ranking
+[!] Loading parameters failed!!!
+
+epoch:0/200,batch:0/140, loss:0.6967514157295227, acc:0.484375
+
+validation loss: 0.694124698638916, accuracy:0.5055555701255798
+
+epoch:0/200,batch:100/140, loss:0.6916272640228271, acc:0.53125
+
+validation loss: 0.6928689479827881, accuracy:0.5138888955116272
+
+epoch:1/200,batch:60/140, loss:0.5842190384864807, acc:0.7031255
+
+validation loss: 0.5383279323577881, accuracy:0.7368888854980469
+
+epoch:2/200,batch:20/140, loss:0.5465903282165527, acc:0.73437555
+
+validation loss: 0.43915092945098877, accuracy:0.8119999766349792
+
+epoch:2/200,batch:120/140, loss:0.43435001373291016, acc:0.828125
+
+validation loss: 0.38152214884757996, accuracy:0.8550000190734863
+
+epoch:3/200,batch:80/140, loss:0.3531647324562073, acc:0.84375555
+
+validation loss: 0.339987576007843, accuracy:0.8569999933242798
+
+epoch:4/200,batch:40/140, loss:0.30913659930229187, acc:0.8437555
+
+validation loss: 0.3021177351474762, accuracy:0.894444465637207
+
+epoch:5/200,batch:0/140, loss:0.3544488251209259, acc:0.875890625
+
+validation loss: 0.2770303189754486, accuracy:0.9045555591583252
+
+epoch:5/200,batch:100/140, loss:0.35496389865875244, acc:0.859375
+
+validation loss: 0.24934835731983185, accuracy:0.9188888669013977
+
+epoch:6/200,batch:60/140, loss:0.36970216035842896, acc:0.8437555
+
+validation loss: 0.272561252117157, accuracy:0.8993333578109741
+
+epoch:7/200,batch:20/140, loss:0.35640400648117065, acc:0.8437555
+
+validation loss: 0.21880914270877838, accuracy:0.9273333549499512
+
+epoch:7/200,batch:120/140, loss:0.21928082406520844, acc:0.906255
+
+validation loss: 0.22057433426380157, accuracy:0.9290000200271606
+
